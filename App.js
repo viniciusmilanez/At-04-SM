@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#00c7ff',
   },
   resultText: {
-    color: 'gray',
+    color: 'lightgray',
     fontSize: 40,
     fontWeight: 'bold',
     padding: 20,
